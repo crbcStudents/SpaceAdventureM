@@ -24,6 +24,11 @@ namespace planetNameSpace
 			planetData ["Uranus"] = "Uranus was the first planet discovered with the use of a telescope.";
 			planetData ["Neptune"] = "Neptune the most distant in the solar system.";
 
+			string planets = planetData ();
+			planets.IndexOf (1);
+
+
+
 		}
 	}
 }
