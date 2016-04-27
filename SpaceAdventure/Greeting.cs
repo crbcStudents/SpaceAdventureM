@@ -14,7 +14,7 @@ namespace GreetingNameSpace
 		public static void greetAdventurer()
 		{
 			var name = responseToPrompt ("What your name?");
-			Console.WriteLine("Nice to meet you " + name + "!");
+			Console.WriteLine("Nice to meet you " + name + " !");
 		}
 
 		public static void determineDestination ()
@@ -28,7 +28,7 @@ namespace GreetingNameSpace
 				if (decision == "Y") 
 				{
 					Console.WriteLine ("Yes");
-					Console.ReadLine (visit (planetName: ""));
+					Console.ReadLine ();
 					visit (planetName: "");
 
 				} 
@@ -40,8 +40,6 @@ namespace GreetingNameSpace
 				{
 					Console.WriteLine ("Invalid Choice");
 				}
-					
-
 			}
 		}
 

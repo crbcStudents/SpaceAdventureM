@@ -39,6 +39,7 @@
     <Compile Include="SpaceShip.cs" />
     <Compile Include="Planets.cs" />
     <Compile Include="Destination.cs" />
+    <Compile Include="ChooseShip.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace destinationNameSpace
+namespace chooseShipNameSpace
 {
-	public class DeterminDestination
+	public class ChooseShipClass 
 	{
-		public static void findDestination ()
+		public static void ChooseShip ()
 		{
 			var decision = "";
 			while (decision != "Y" || decision != "N") 
@@ -31,3 +31,4 @@ namespace destinationNameSpace
 		}
 	}
 }
+

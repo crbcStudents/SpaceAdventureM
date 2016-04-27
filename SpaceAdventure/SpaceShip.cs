@@ -9,8 +9,9 @@ namespace spaceShipNameSpace
 		{
 			var numberOfChoices = 5;
 
-			Console.WriteLine ("Please Chosse a ship");
-			Console.WriteLine ("There are " + numberOfChoices + "in our fleet.");
+			Console.WriteLine ("Welcome to our solar system");
+			Console.WriteLine ("Please Choose a ship");
+			Console.WriteLine ("There are " + numberOfChoices + " in our fleet.");
 
 			Dictionary<string, string> shipData = new Dictionary<string, string> (); 
 			shipData ["The Red Commet"] = "The fastest and most agile in the fleet. Perfect for dramatic escapes!";
