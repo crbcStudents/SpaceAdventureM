@@ -28,7 +28,10 @@ namespace GreetingNameSpace
 				if (decision == "Y") 
 				{
 					Console.WriteLine ("Yes");
+<<<<<<< HEAD
 					Console.ReadLine ();
+=======
+>>>>>>> origin/Jess
 					visit (planetName: "");
 
 				} 
