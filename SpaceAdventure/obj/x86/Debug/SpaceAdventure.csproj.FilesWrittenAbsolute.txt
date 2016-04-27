@@ -3,3 +3,8 @@
 /Users/gianalgarin/Projects/SpaceAdventure/SpaceAdventure/bin/Debug/SpaceAdventure.exe
 /Users/gianalgarin/Projects/SpaceAdventure/SpaceAdventure/obj/x86/Debug/SpaceAdventure.exe
 /Users/gianalgarin/Projects/SpaceAdventure/SpaceAdventure/obj/x86/Debug/SpaceAdventure.exe.mdb
+/Users/ejchurchey/SpaceAdventureM/SpaceAdventure/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ejchurchey/SpaceAdventureM/SpaceAdventure/bin/Debug/SpaceAdventure.exe.mdb
+/Users/ejchurchey/SpaceAdventureM/SpaceAdventure/bin/Debug/SpaceAdventure.exe
+/Users/ejchurchey/SpaceAdventureM/SpaceAdventure/obj/x86/Debug/SpaceAdventure.exe
+/Users/ejchurchey/SpaceAdventureM/SpaceAdventure/obj/x86/Debug/SpaceAdventure.exe.mdb
