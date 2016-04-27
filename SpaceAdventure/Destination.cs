@@ -9,10 +9,10 @@ namespace spaceAdventureNameSpace
 			var decision = "";
 			while (decision != "Y" || decision != "N") 
 			{
-				decision = responceToPrompt ("Shall I choose a planet for you?");
+				decision = responseToPrompt ("Shall I choose a planet for you?");
 				if (decision == "Y") 
 				{
-					ConsoleWriteLine ("Coordinates Recieved, traveling to...");
+					Console.WriteLine ("Coordinates Recieved, traveling to...");
 				}
 				else if (decision == "N")
 				{

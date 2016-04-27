@@ -12,6 +12,7 @@ namespace planetNameSpace
 
 			Console.WriteLine ("Welcome to our solar system");
 			Console.WriteLine ("There are " + numberOfPlanets + "in this solar system.");
+			Console.WriteLine ("The diameter of Earth is " + diameterOfEarth + " miles!");
 
 			Dictionary<string, string> planetData = new Dictionary <string, string> (); 
 			planetData ["Mercury"] = "Mercury is the closest planet to the Sun";
