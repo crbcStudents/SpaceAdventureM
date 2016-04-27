@@ -7,7 +7,9 @@ namespace SpaceAdventure
 		public static void Main (string[] args)
 		{
 			GreetingNameSpace.GreetingClass.greetAdventurer ();
-			GreetingNameSpace.GreetingClass.determineDestination ();
+			planetNameSpace.PlanetClass.PlanetIntroduction ();
+			spaceShipNameSpace.SpaceShipClass.chooseASpaceShip ();
+			spaceAdventureNameSpace.DeterminDestination.findDestination ();
 
 		}
 	}

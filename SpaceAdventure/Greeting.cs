@@ -28,7 +28,6 @@ namespace GreetingNameSpace
 				if (decision == "Y") 
 				{
 					Console.WriteLine ("Yes");
-					Console.ReadLine (visit (planetName: ""));
 					visit (planetName: "");
 
 				} 
